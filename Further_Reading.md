@@ -3,9 +3,9 @@
 Dark Matter
 
 Classic
-[1933](https://vikdhillon.staff.shef.ac.uk/teaching/phy213/phy213_course.html)
+[1933](https://ui.adsabs.harvard.edu/abs/1933AcHPh...6..110Z/abstract)
 (auf Deutsch) and
-[1937](https://vikdhillon.staff.shef.ac.uk/teaching/phy213/phy213_course.html)
+[1937](https://ui.adsabs.harvard.edu/abs/1937ApJ....86..217Z/abstract)
 (in English) papers where Zwicky applied the Virial Theorem to
 observations of the Coma Cluster to infer (as one possibility) that it
 contains a considerable amount of "dunkle materie" aka "dark matter".
